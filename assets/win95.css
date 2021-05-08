@@ -335,6 +335,21 @@ NAVBAR
 .navbar-toggler{
     width: auto;
 }
+/* #navbar {
+  overflow: hidden;
+}
+  .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  .sticky + .content {
+    padding-top: 60px;
+  }
+  .content {
+    padding: 16px;
+  } */
+
 /*
 
 FOOTER
