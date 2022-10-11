@@ -638,7 +638,8 @@ TABLES
 }
 
 #meImg {
-  height: auto;
+
+width: 50%;
 }
 
 .aButton {
